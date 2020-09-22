@@ -7,11 +7,10 @@
 > Teknologi Cloud Computing ini menjadikan internet sebagai pusat server dalam mengelelola data. Sistem ini memudahkan pengguna untuk login ke internet agar mendapatkan akses untuk menjalankan program atau aplikasi tanpa harus menginstall aplikasi tersebut. Pengguna hanya memerlukan jaringan internet agar dapat menjalankan aplikasi tersebut tanpa perlu melakukan instalasi.
 
 #### __Manfaat Cloud Computing:__
-'''
 1.	Media Penyimpanan Terpusat pada Server
 2.	Keamanan Data
 3.	Lebih Murah dan Tahan Lama
-'''
+
 
 Model cloud ini terdiri dari lima karakteristik penting, tiga model layanan, dan empat penerapan model.
 #### __Karakteristik Penting:__
@@ -22,9 +21,9 @@ Model cloud ini terdiri dari lima karakteristik penting, tiga model layanan, dan
 5.	Layanan terukur
 
 #### __Model Layanan:__
-1.	Software as a Service '(SaaS)'
-2.	Platform sebagai Layanan '(PaaS)'
-3.	'IaaS' (Infrastructure as a Service)
+1.	Software as a Service (SaaS)
+2.	Platform sebagai Layanan (PaaS)
+3.	IaaS (Infrastructure as a Service)
 
 #### __Model Penerapan:__
 1.	Cloud pribadi
