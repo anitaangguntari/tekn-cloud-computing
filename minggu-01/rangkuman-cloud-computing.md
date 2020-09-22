@@ -1,10 +1,10 @@
 # Cloud Computing
 
 #### __Defisini Cloud Computing__
-Cloud Computing merupakan istilah dari Cloud diartikan sebagai internet dan Computing diartikan sebagai komputer. Definisi dari Cloud Computing adalah sebuah proses pengolahan daya komputasi  melalui jaringan internet  yang memiliki fungsi agar dapat menjalankan program melalui komputer yang telah terkoneksi satu sama lain pada waktu yang sama. Cloud Computing merupakan sebuah teknologi yang menjadikan internet sebagai pusat server untuk mengelola data dan juga aplikasi pengguna. Cloud Computing memudahkan penggunanya untuk menjalankan program tanpa harus menginstall aplikasi terlebih dahulu dan memudahkan pengguna untuk mengakses data dan informasi melalui internet.
+> Cloud Computing merupakan istilah dari Cloud diartikan sebagai internet dan Computing diartikan sebagai komputer. Definisi dari Cloud Computing adalah sebuah proses pengolahan daya komputasi  melalui jaringan internet  yang memiliki fungsi agar dapat menjalankan program melalui komputer yang telah terkoneksi satu sama lain pada waktu yang sama. Cloud Computing merupakan sebuah teknologi yang menjadikan internet sebagai pusat server untuk mengelola data dan juga aplikasi pengguna. Cloud Computing memudahkan penggunanya untuk menjalankan program tanpa harus menginstall aplikasi terlebih dahulu dan memudahkan pengguna untuk mengakses data dan informasi melalui internet.
 
 #### **Cara Kerja Cloud Computing**
-Teknologi Cloud Computing ini menjadikan internet sebagai pusat server dalam mengelelola data. Sistem ini memudahkan pengguna untuk login ke internet agar mendapatkan akses untuk menjalankan program atau aplikasi tanpa harus menginstall aplikasi tersebut. Pengguna hanya memerlukan jaringan internet agar dapat menjalankan aplikasi tersebut tanpa perlu melakukan instalasi.
+> Teknologi Cloud Computing ini menjadikan internet sebagai pusat server dalam mengelelola data. Sistem ini memudahkan pengguna untuk login ke internet agar mendapatkan akses untuk menjalankan program atau aplikasi tanpa harus menginstall aplikasi tersebut. Pengguna hanya memerlukan jaringan internet agar dapat menjalankan aplikasi tersebut tanpa perlu melakukan instalasi.
 
 #### __Manfaat Cloud Computing:__
 1.	Media Penyimpanan Terpusat pada Server
