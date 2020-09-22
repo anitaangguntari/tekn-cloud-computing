@@ -30,14 +30,17 @@
 1. Cek Versi Git
 
 ![Gambar 1](./cek-versi-git.PNG)
+
 2. Konfiguarasi username dan email pada github
 
 ![Gambar 1](./konfigurasi-username-email.PNG)
+
 3. Clone repository
 
 ![Gambar 1](./clone-repo.PNG)
 
 ### Hasil pada repository tekn-cloud-computing
+
 > ![Gambar 1](./Hasil1.PNG)
 
 > ![Gambar 1](./Hasil2.PNG)
