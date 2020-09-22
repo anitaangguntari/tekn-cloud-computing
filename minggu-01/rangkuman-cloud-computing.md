@@ -8,6 +8,7 @@
 
 #### __Manfaat Cloud Computing:__
 ...
+
 1.	Media Penyimpanan Terpusat pada Server
 2.	Keamanan Data
 3.	Lebih Murah dan Tahan Lama
@@ -15,6 +16,7 @@
 Model cloud ini terdiri dari lima karakteristik penting, tiga model layanan, dan empat penerapan model.
 #### __Karakteristik Penting:__
 ...
+
 1.	Layanan mandiri sesuai permintaan
 2.	Akses jaringan yang luas
 3.	Pengumpulan sumber daya
@@ -23,12 +25,14 @@ Model cloud ini terdiri dari lima karakteristik penting, tiga model layanan, dan
 ...
 #### __Model Layanan:__
 ...
-1.	Software as a Service (SaaS)
-2.	Platform sebagai Layanan (PaaS)
-3.	IaaS (Infrastructure as a Service)
+
+1.	Software as a Service '(SaaS)'
+2.	Platform sebagai Layanan '(PaaS)'
+3.	'IaaS' (Infrastructure as a Service)
 ...
 #### __Model Penerapan:__
 ...
+
 1.	Cloud pribadi
 2.	Cloud komunitas
 3.	Cloud public
