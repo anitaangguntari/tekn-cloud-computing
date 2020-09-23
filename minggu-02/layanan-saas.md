@@ -28,9 +28,9 @@
 </ol>
 
 ## 2. Software Kasir POS (Point On Sales) berbasis Cloud
-  > 1. Menawarkan mobilitas
+  > 1. Menawarkan mobilitas : 
 Menggunakan software kasir berbasis berbasis cloud akan berikan Anda lebih banyak mobilitas dan fleksibilitas. Seluruh proses bisa dipasang dan dilaksanakan pakai mobile phone dan juga tablet. Jika Anda mobilisasi usaha
-  > 2. Fitur sinkronisasi
+  > 2. Fitur sinkronisasi : 
 Memaliki koneksi agar senantiasa online adalah hal yang mutlak dari proses kasir berbasis cloud. Tapi bersama dengan punyai software kasir berbasis cloud yang terbaik, Anda masih bisa bekerja meski internet tengah down
 
 ## Software Kasir Dekstop
