@@ -1,5 +1,5 @@
 # Layanan SaaS
-## Software Akuntansi Cloud (Zahir Online)
+## 1. Software Akuntansi Cloud (Zahir Online)
   > Untuk menggunakan Accounting Software web based anda perlu membuka program akuntansi seperti Mozilla Firefox, Google, Chrome, dll. Inilah mengapa penginputan transaksi bergantung pada internet. Kekurangannya anda tidak bisa mengakses ketika internet sedang  offline atau lambat.
 
 ## Software Akuntansi Dekstop 
@@ -26,3 +26,14 @@
     <ul><li>Mudah memodifikasi settingannya</li></ul>
     <ul><li>Resiko data user diakses orang lain kecil</li></ul>
 </ol>
+
+## 2. Software Kasir POS (Point On Sales) berbasis Cloud
+  > <ol>
+    <li type='1'>Menawarkan mobilitas</li>
+Menggunakan software kasir berbasis berbasis cloud akan berikan Anda lebih banyak mobilitas dan fleksibilitas. Seluruh proses bisa dipasang dan dilaksanakan pakai mobile phone dan juga tablet. Jika Anda mobilisasi usaha
+  > <li type='1'>Fitur sinkronisasi</li></ol>
+Memaliki koneksi agar senantiasa online adalah hal yang mutlak dari proses kasir berbasis cloud. Tapi bersama dengan punyai software kasir berbasis cloud yang terbaik, Anda masih bisa bekerja meski internet tengah down
+
+## Software Kasir Dekstop
+  > Downtime
+Ada kalanya ketika proses POS Windows tradisional terkena virus atau jika proses mengalami crash atau rusak, Anda bisa berharap staff IT Anda untuk menanggulangi kasus downtime ini. Semuanya harus diperiksa untuk menentukan apakah terjadi rusaknya di perangkat keras atau perangkat lunak, dan bersama dengan beberapa besar kasus yang melibatkan virus atau data korupsi, total pengaturan harus diinstal ulang. Dan yang mengesalkan adalah perbaikan tersebut bisa memerlukan waktu yang lama untuk diselesaikan
