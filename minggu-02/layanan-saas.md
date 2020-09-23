@@ -1,6 +1,6 @@
 # Layanan SaaS
 ## Software Akuntansi Cloud (Zahir Online)
-  > Dengan menggunakan Zahir Online maka tentunya akan memberikan Anda berbagai keuntungan misalnya seperti dapat melakukan akses antar cabang secara terintegrasi sehingga memungkinkan Anda untuk dapat memantau laporan keuangan secara real time
+  > Untuk menggunakan Accounting Software web based anda perlu membuka program akuntansi seperti Mozilla Firefox, Google, Chrome, dll. Inilah mengapa penginputan transaksi bergantung pada internet. Kekurangannya anda tidak bisa mengakses ketika internet sedang  offline atau lambat.
 
 ## Software Akuntansi Dekstop 
   > Software akuntansi dekstop dapat diinstal dan tidak memerlukan koneksi internet dalam penggunaanya. Walaupun memang database ini jarang dipasaran.
