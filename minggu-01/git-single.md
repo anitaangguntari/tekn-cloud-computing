@@ -17,6 +17,20 @@
 ![Gambar 1](./install-git-15.PNG)
 ![Gambar 1](./install-git-16.PNG)
 
+### Git Bash
+
+![Gambar 1](./git-bash.PNG)
+
+![Gambar 1](./tampilan-git-bash.PNG)
+
+### Git GUI
+
+![Gambar 1](./git-gui.PNG)
+
+### CMD
+
+![Gambar 1](./cmd.PNG)
+
 ### Membuat Repository 
 
 ![Gambar 1](./new-repo.PNG)
