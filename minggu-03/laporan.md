@@ -2,8 +2,7 @@
 1. Heroku
 
 ![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-03/app.PNG)
-![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-03/Create-APP.PNG)
-![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-03/hero-to-github.PNG)
+![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-03/Create-APP.PNG)![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-03/hero-to-github.PNG)
 
 2. Python
 
@@ -23,17 +22,13 @@
 ![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-03/postgresql8.PNG)
 ![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-03/postgresql9.PNG)
 ![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-03/postgresql10.PNG)
-![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-03/postgresql11.PNG)
-![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-03/postgresql12.PNG)
-![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-03/postgresql13.PNG)
-![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-03/postgresql14.PNG)
-![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-03/postgresql15.PNG)
 ![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-03/postgresql16.PNG)
-![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-03/postgresq117.PNG)
+![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-03/postgresql17.PNG)
+![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-03/postgresql18.PNG)
 ![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-03/postgresql19.PNG)
 ![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-03/postgresql20.PNG)
 ![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-03/postgresql21.PNG)
-![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-03/postgresql22.PNG)
+![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-03/postgresq122.PNG)
 ![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-03/postgresql23.PNG)
 ![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-03/postgresql24.PNG)
 ![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-03/postgresql25.PNG)
