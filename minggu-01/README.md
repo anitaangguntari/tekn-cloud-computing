@@ -1,4 +1,4 @@
-## Link hasil praktikum minggu 1
+## Link Hasil Praktikum Minggu 1
 
 > [git-single.md](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-01/git-single.md)
 
