@@ -29,7 +29,7 @@
 ![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-03/postgresql19.PNG)
 ![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-03/postgresql20.PNG)
 ![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-03/postgresql21.PNG)
-![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-03/postgresq122.PNG)
+![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-03/postgresql22.PNG)
 ![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-03/postgresql23.PNG)
 ![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-03/postgresql24.PNG)
 ![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-03/postgresql25.PNG)
