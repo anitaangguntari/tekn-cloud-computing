@@ -2,7 +2,8 @@
 1. Heroku
 
 ![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-03/app.PNG)
-![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-03/Create-APP.PNG)![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-03/hero-to-github.PNG)
+![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-03/Create-APP.PNG)
+![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-03/hero-to-github.PNG)
 
 2. Python
 
