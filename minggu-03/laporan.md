@@ -38,5 +38,10 @@
 
 4.  Getting Started on Heroku with Python
 
-![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-03/prepare-the-app.PNG)
+![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-03/hero-versi.PNG)
+![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-03/hero-login.PNG)
+![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-03/hero-prepare-clone.PNG)
+![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-03/hero-open-view.PNG)
+![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-03/hero-python.PNG)
+![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-03/hero-scale.PNG)
 
