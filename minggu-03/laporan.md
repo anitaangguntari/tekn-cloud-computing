@@ -43,5 +43,5 @@
 ![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-03/hero-prepare-clone.png)
 ![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-03/hero-open-view.png)
 ![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-03/hero-python.png)
-![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-03/hero-scale.png)
+![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-03/hero-scale.PNG)
 
