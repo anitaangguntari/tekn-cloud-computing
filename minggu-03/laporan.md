@@ -45,3 +45,4 @@
 ![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-03/hero-python.png)
 ![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-03/hero-scale.PNG)
 
+5.  Deployement ke PaaS di Heroku untuk PHP
