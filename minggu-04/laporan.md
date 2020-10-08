@@ -13,7 +13,7 @@
 ![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-04/Install-composer-8.PNG)
 ![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-04/Install-composer-9.PNG)
 
-
+#### Praktik
 ![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-04/praktik0.PNG)
 ![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-04/praktik1.PNG)
 ![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-04/praktik2.PNG)
