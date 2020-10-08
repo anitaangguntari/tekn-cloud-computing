@@ -15,15 +15,15 @@
 
 
 ![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-04/praktik0.PNG)
+![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-04/praktik1.PNG)
 ![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-04/praktik2.PNG)
 ![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-04/praktik3.PNG)
 ![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-04/praktik4.PNG)
 ![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-04/praktik4a.PNG)
-![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-04/praktik4bPNG)
+![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-04/praktik4b.PNG)
 ![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-04/praktik4c.PNG)
 ![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-04/praktik4d.PNG)
 ![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-04/praktik5.PNG)
-![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-04/praktik6.PNG)
 ![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-04/praktik7.PNG)
 ![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-04/praktik8.PNG)
 ![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-04/praktik9.PNG)
@@ -70,5 +70,3 @@
 ![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-04/tugas32.PNG)
 ![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-04/tugas33.PNG)
 ![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-04/tugas34.PNG)
-![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-04/tugas35.PNG)
-![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-04/tugas36.PNG)
