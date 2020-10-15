@@ -8,3 +8,7 @@
 ![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-05/instal5.PNG)
 ![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-05/instal6.PNG)
 ![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-05/instal7.PNG)
+![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-05/1.PNG)
+
+#### Ofbiz
+![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-05/2.PNG)
