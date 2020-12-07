@@ -1,0 +1,17 @@
+## Hasil Praktikum 8
+
+![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-08/1.PNG)
+![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-08/2.PNG)
+![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-08/3.PNG)
+![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-08/4.PNG)
+![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-08/5.PNG)
+![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-08/6.PNG)
+![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-08/7.PNG)
+![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-08/8.PNG)
+![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-08/9.PNG)
+![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-08/10.PNG)
+![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-08/11.PNG)
+![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-08/12.PNG)
+![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-08/13.PNG)
+![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-08/14.PNG)
+![Gambar1](https://github.com/anitaangguntari/tekn-cloud-computing/blob/master/minggu-08/15.PNG)
